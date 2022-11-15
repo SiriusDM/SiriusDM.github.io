@@ -1,1 +1,1 @@
-[]
+[{"categories":null,"content":"Cannot use ‘nvidia-smi’ command after login wsl via ssh fixed by add export PATH=/usr/lib/wsl/lib:$PATH to PATH. Cannot use ‘git clone’ reboot it. ssh connect error: kex_exchange_identification: read: Connection reset edit /etc/hosts.allow add sshd: ALL,restart sshd service. ","date":"2022-11-15","objectID":"/bug_in_wsl/:0:0","tags":null,"title":"Some Bugs in WSL2","uri":"/bug_in_wsl/"}]
